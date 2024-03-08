@@ -49,3 +49,5 @@ function informacao(){
     console.log(message)
 }
 informacao();
+
+console.log("Tudo feito!")
